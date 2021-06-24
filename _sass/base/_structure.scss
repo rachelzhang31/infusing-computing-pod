@@ -5,7 +5,7 @@
 }
 
 header {
-    min-height: 50vh;
+    min-height: 10vh;
     max-height: 60vh;
     display: flex;
     justify-content: center;
@@ -48,6 +48,7 @@ footer div {
 }
 
 footer p {
+    border-color: #5CDB95;
     color: $footer-color;
     padding: 1em;
     font-size: .7em;
