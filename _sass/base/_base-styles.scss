@@ -46,29 +46,7 @@ hr {
   border-top: 1px solid $light-grey;
 }
 
-// Gradient Animation Settings
-//––––––––––––––––––––––––––––––––––––––––––––––––––
 
-.gradient {
-    background: $long-gradient;
-    background-size: 1600% 1600%;
-    -webkit-animation: LX-Background 120s linear alternate infinite;
-    -moz-animation: LX-Background 120s linear alternate infinite;
-    animation: LX-Background 120s linear alternate infinite;
-}    
-    
-@-webkit-keyframes LX-Background {
-    0%{background-position:51% 0%}
-    50%{background-position:50% 100%}
-    100%{background-position:51% 0%}
-}
-@-moz-keyframes LX-Background {
-    0%{background-position:51% 0%}
-    50%{background-position:50% 100%}
-    100%{background-position:51% 0%}
-}
-@keyframes LX-Background { 
-    0%{background-position:51% 0%}
-    50%{background-position:50% 100%}
-    100%{background-position:51% 0%}
+.background {
+    background-color: #05386B;
 }    
