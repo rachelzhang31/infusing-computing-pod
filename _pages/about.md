@@ -20,9 +20,9 @@ The end result is a podcast series that focuses on four core truths:
 
 ### The Crew
 
-Jepseikie: Host
-Naphtali: Executive Manager
-SuperLuxio: Producer & Webmaster
+Jepseikie: Host  
+Naphtali: Executive Manager  
+SuperLuxio: Producer & Webmaster  
 
 Shoutout to the folks at [church](https://www.thecitygateschurch.com/)!
 
