@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Jep 'n Jabber"
+title: "About Us"
 permalink: /about
 ---
 
